@@ -1,0 +1,18 @@
+[workspace]
+authors = ["Baptiste Rouxel <baptiste.rouxel.ext@vito.be>"]
+channels = ["conda-forge"]
+name = "dart-ms-upstream"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.14.6,<3.15"
+pandas = ">=3.0.3,<4"
+numpy = ">=2.5.1,<3"
+rdkit = ">=2026.3.4,<2027"
+pillow = ">=12.3.0,<13"
+openpyxl = ">=3.1.5,<4"
+xlsxwriter = ">=3.2.9,<4"
+matplotlib = ">=3.11.0,<4"
