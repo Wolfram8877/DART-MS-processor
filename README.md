@@ -10,7 +10,7 @@ While DART-MS allows for rapid, ambient ionization and high-throughput data acqu
 
 This is especially true in polymer additive analysis, where spectra are highly congested and complex:
 
-<img width="1290" height="633" alt="image" src="https://github.com/user-attachments/assets/35467add-29c8-4c8d-9787-1f59aeba81d4" />
+<img width="645" height="316" alt="image" src="https://github.com/user-attachments/assets/35467add-29c8-4c8d-9787-1f59aeba81d4" />
 
 Researchers relying on manual processing face several critical challenges:
 * **The Throughput Mismatch:** The fundamental advantage of DART-MS (rapid analysis) is entirely negated by the hours required to manually process the resulting exports.
