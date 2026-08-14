@@ -2,7 +2,7 @@
 
 An automated data processing pipeline for Direct Analysis in Real Time Mass Spectrometry (DART-MS) datasets. This tool streamlines the extraction, filtering, and visualization of raw mass spectrometry data, bridging the gap between high-throughput data acquisition and actionable analytical results.
 
-https://github.com/user-attachments/assets/39a2c30a-32ca-4138-a4c5-1916de1447f8
+https://github.com/user-attachments/assets/0595cb9d-673b-4bc4-8df5-a71f4033713b
 
 ## The Problem
 
