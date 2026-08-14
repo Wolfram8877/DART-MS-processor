@@ -28,8 +28,6 @@ Finally, the processor features a multi-sample screening tool, allowing research
 
 ## Core Capabilities
 
-## Core Capabilities
-
 * **Batch Automation:** Processes large-scale sets of DART-MS data files simultaneously, completely eliminating file-by-file manual entry.
 * **Data Parsing & Peak Filtering:** Cleans raw output, automatically handling noise reduction and peak extraction based on user-defined parameters.
 * **Isotopic Analysis & Intelligent Scoring:** Evaluates mass accuracy (ppm error), isotopic profiles, adduct formations, and polymer associations to assign a robust confidence score to candidate molecules, removing the guesswork from identification.
