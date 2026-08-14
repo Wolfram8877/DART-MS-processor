@@ -28,9 +28,11 @@ Finally, the processor features a multi-sample screening tool, allowing research
 
 ## Core Capabilities
 
+## Core Capabilities
+
 * **Batch Automation:** Processes large-scale sets of DART-MS data files simultaneously, completely eliminating file-by-file manual entry.
-* **Intelligent Compound Scoring:** Evaluates multiple parameters (adducts, industrial uses, polymer associations) to assign a confidence score to candidate molecules, removing the guesswork from peak identification.
-* **Cross-Sample Screening:** Aggregates results from multiple analyses to easily track and compare the presence of specific compounds across various samples.
-* **Data Parsing & Normalization:** Cleans and structures raw output into standardized formats, automatically handling noise reduction and peak filtering based on user-defined parameters.
-* **Automated Visualization:** Generates instant graphical representations of mass spectra to facilitate rapid quality control and dataset comparison.
-* **Standardized Export:** Outputs clean, analysis-ready data into universally accepted formats (CSV, Excel) for seamless integration into downstream statistical software or laboratory information management systems (LIMS).
+* **Data Parsing & Peak Filtering:** Cleans raw output, automatically handling noise reduction and peak extraction based on user-defined parameters.
+* **Isotopic Analysis & Intelligent Scoring:** Evaluates mass accuracy (ppm error), isotopic profiles, adduct formations, and polymer associations to assign a robust confidence score to candidate molecules, removing the guesswork from identification.
+* **Automated Structural Visualization:** The tool automatically fetches and displays the chemical structure, CAS registry number, and known industrial uses for each candidate, providing immediate visual and chemical context.
+* **Cross-Sample Screening:** Aggregates results from multiple analyses to easily track and map the presence of specific compounds across various samples.
+* **Excel-Ready Export:** Outputs clean, formatted, and analysis-ready data directly into Excel spreadsheets, eliminating tedious manual copy-pasting and facilitating immediate review.
