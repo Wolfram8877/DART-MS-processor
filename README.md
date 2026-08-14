@@ -22,7 +22,7 @@ Researchers relying on manual processing face several critical challenges:
 
 The DART-MS Processor replaces the manual data treatment bottleneck with a robust, programmatic workflow. By ingesting instrument exports, this pipeline automates the most time-consuming steps of mass spectrometry data analysis. It ensures that peak extraction and dataset alignment are handled consistently, guaranteeing strict analytical reproducibility.
 
-To overcome the lack of specialized databases, the program automatically contextualizes findings by providing critical information for all candidate compounds: common polymer associations, potential contaminants, adduct formations, and industrial uses. It synthesizes this data to calculate a **confidence score**, reliably proposing the most probable candidate for each peak.
+To overcome the lack of specialized databases, the program use the PlastChem database, the most complete database about plastic related compounds. It automatically contextualizes findings by providing critical information for all candidate compounds: common polymer associations, potential contaminants, adduct formations, and industrial uses. It synthesizes this data to calculate a **confidence score**, reliably proposing the most probable candidate for each peak.
 
 Finally, the processor features a multi-sample screening tool, allowing researchers to instantly visualize and map the distribution of specific compounds across large datasets.
 
